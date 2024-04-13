@@ -6,6 +6,7 @@ import MoviePage from "./Components/MoviePage";
 
 
 
+
 const App=()=>{
   return(
     <>
